@@ -8,3 +8,5 @@ git push [a donde] # sube nuestros cambios a ubicación remota.
 git status # muestra el estado de los archivos en el repositorio.
 git show # muestra el ultimo cambio.
 git log # muestra el log de los commits.
+git rebase # reescribir la historia.
+git stash # guardar temporalmente unos cambios.
