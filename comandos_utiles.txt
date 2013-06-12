@@ -10,3 +10,4 @@ git show # muestra el ultimo cambio.
 git log # muestra el log de los commits.
 git rebase # reescribir la historia.
 git stash # guardar temporalmente unos cambios.
+git clone <url> # clona una copia del repositio remoto.
