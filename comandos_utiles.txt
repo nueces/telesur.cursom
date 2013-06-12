@@ -1,0 +1,10 @@
+git init <nombre repositorio>
+git add  <nombre archivo>  # agrega un archivo al repositorio
+git commit # guarda un cambio
+    -a
+    <noombre archivo/s>
+git pull # actualiza el repositio desde una ubicación remota
+git push [a donde] # sube nuestros cambios a ubicación remota.
+git status # muestra el estado de los archivos en el repositorio.
+git show # muestra el ultimo cambio.
+git log # muestra el log de los commits.
