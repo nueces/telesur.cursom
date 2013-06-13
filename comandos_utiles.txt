@@ -11,3 +11,7 @@ git log # muestra el log de los commits.
 git rebase # reescribir la historia.
 git stash # guardar temporalmente unos cambios.
 git clone <url> # clona una copia del repositio remoto.
+git merge <nombre> # sincronizar dos branches, locales o remotos.
+git branch # lista los branch locales
+git branch <nombre> # crea un nuevo branch <nombre>
+git checkout <nombre> # cambia al branch <nombre>
